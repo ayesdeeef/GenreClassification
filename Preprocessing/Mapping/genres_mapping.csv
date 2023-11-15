@@ -1,0 +1,101 @@
+genres,genres_encoded
+adult standards,0
+album rock,1
+alternative hip hop,2
+alternative metal,3
+alternative rock,4
+art rock,5
+bebop,6
+big band,7
+blues rock,8
+brill building pop,9
+bubblegum pop,10
+ccm,11
+classic rock,12
+classic soul,13
+classic uk pop,14
+classical,15
+classical performance,16
+contemporary country,17
+contemporary post-bop,18
+cool jazz,19
+corrido,20
+country,21
+country road,22
+country rock,23
+dance pop,24
+dance rock,25
+dirty south rap,26
+disco,27
+edm,28
+electro house,29
+electronica,30
+electropop,31
+filmi,32
+folk,33
+folk rock,34
+funk,35
+gangster rap,36
+hard bop,37
+hard rock,38
+hardcore hip hop,39
+hip hop,40
+hip pop,41
+hollywood,42
+indie folk,43
+indie pop,44
+indie poptimism,45
+indie rock,46
+jazz,47
+jazz funk,48
+latin,49
+latin hip hop,50
+latin pop,51
+lounge,52
+mellow gold,53
+metal,54
+modern alternative rock,55
+modern rock,56
+motown,57
+movie tunes,58
+neo mellow,59
+neo soul,60
+new americana,61
+new jack swing,62
+new romantic,63
+new wave,64
+new wave pop,65
+nu metal,66
+nuevo regional mexicano,67
+pop,68
+pop dance,69
+pop punk,70
+pop rap,71
+pop rock,72
+post-disco,73
+post-teen pop,74
+psychedelic rock,75
+punk,76
+quiet storm,77
+r&b,78
+rap,79
+reggaeton,80
+regional mexican,81
+rock,82
+rock en espanol,83
+rock-and-roll,84
+roots rock,85
+show tunes,86
+soft rock,87
+soul,88
+soul jazz,89
+southern hip hop,90
+stomp and holler,91
+traditional folk,92
+trap,93
+trap latino,94
+tropical,95
+tropical house,96
+underground hip hop,97
+urban contemporary,98
+vocal jazz,99
